@@ -1,0 +1,21 @@
+{
+  "name": "react-beefy",
+  "version": "0.0.0",
+  "authors": [
+    "Stuart Corbishley <corbish@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.2.2"
+  }
+}
